@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mathquest/static/css/main.aa185009.css",
+    "main.js": "/mathquest/static/js/main.a7e8e54c.js",
+    "static/js/453.ac00058f.chunk.js": "/mathquest/static/js/453.ac00058f.chunk.js",
+    "index.html": "/mathquest/index.html",
+    "main.aa185009.css.map": "/mathquest/static/css/main.aa185009.css.map",
+    "main.a7e8e54c.js.map": "/mathquest/static/js/main.a7e8e54c.js.map",
+    "453.ac00058f.chunk.js.map": "/mathquest/static/js/453.ac00058f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa185009.css",
+    "static/js/main.a7e8e54c.js"
+  ]
+}
