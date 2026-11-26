@@ -1,0 +1,11 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["github>raphaelh/renovate-config"],
+  "packageRules": [
+    {
+      "description": "Pas de CI dans ce dépôt : aucune PR n'est fusionnée automatiquement",
+      "matchPackageNames": ["*"],
+      "automerge": false
+    }
+  ]
+}
